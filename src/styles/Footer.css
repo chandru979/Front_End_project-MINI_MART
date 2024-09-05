@@ -1,0 +1,19 @@
+.footer-container {
+  background-color: #333;
+  color: white;
+}
+
+.position-change {
+  position: relative;
+  left: -300px;
+}
+
+.justify-change a {
+  position: relative;
+  right: 50%;
+}
+
+.footer-container-2 {
+  background-color: black;
+  color: white;
+}

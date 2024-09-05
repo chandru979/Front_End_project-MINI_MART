@@ -1,0 +1,113 @@
+/* .footer-container {
+  background-color: #333;
+  color: white;
+}
+
+.position-change {
+  position: relative;
+  left: -300px;
+}
+
+.justify-change a {
+  position: relative;
+  right: 50%;
+}
+
+.footer-container-2 {
+  background-color: black;
+  color: white;
+}
+.bgg-color {
+  position: relative;
+  background-color: #333;
+  width: 100%;
+  height: 50px;
+}
+.navbar-title {
+  position: relative;
+  top: 10px;
+  color: white;
+  text-decoration: none;
+
+}
+
+.flex-li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.link-mini-mart {
+  text-decoration: none;
+}
+
+.search-bar input {
+  position: relative;
+  width: 300px;
+  top: 7px;
+}
+
+.search-bar button {
+  position: relative;
+  top: 7px;
+}
+
+.link-contact {
+  color: gold;
+  margin-left: 75%;
+  text-decoration: none;
+}
+
+.li-login-link {
+  position: relative;
+  top: 5px;
+}
+
+.li-contact-link {
+  position: relative;
+  left: 100px;
+  top: 8px;
+}
+
+.link-login {
+  position: relative;
+  top: 4px;
+  color: gold;
+  text-decoration: none;
+}
+.btn-customize {
+  width: 120px;
+}
+
+.sigin-link {
+  text-decoration: none;
+}
+
+.toggle-password {
+    position: absolute;
+    right: 100px;
+    top: 245px;
+    cursor: pointer;
+    color: #007BFF;
+}
+.main-container{
+  max-width: 100%;
+  height: 1500px;
+}
+
+.carousel-change {
+position: relative;
+top: 50px;
+margin: auto;
+}
+
+.carousel-container-change{
+  height: 400px;
+}
+
+.container-1{
+  border: 2px solid yellow;
+  width: 80%;
+  height: 600px;
+  background-color: grey;
+} */

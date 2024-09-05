@@ -1,0 +1,22 @@
+.caro-body {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+  overflow: auto;
+}
+.list-ul {
+  width: 2500px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  scrollbar-width: auto;
+  float: left;
+  position: relative;
+  right: 1%;
+  overflow: hidden;
+}
+.list-box {
+  width: 250px;
+  height: 260px;
+  background-color: grey;
+}

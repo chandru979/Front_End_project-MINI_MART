@@ -1,0 +1,13 @@
+.button{
+    padding: 10px;
+    padding-left: 270px;
+    padding-right: 270px;
+    background-color: blue;
+    color: white;
+}
+
+.forgot{
+position: relative;
+bottom: 30px;
+left: 200px;
+}

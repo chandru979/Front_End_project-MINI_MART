@@ -1,0 +1,85 @@
+.bgg-color {
+  /*this is called module css */
+  position: relative;
+  background-color: #131921;
+  width: 100%;
+  height: 50px;
+  /* top: 0px; */
+}
+.navbar-title {
+  position: relative;
+  top: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.flex-li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.link-mini-mart {
+  text-decoration: none;
+}
+
+.search-bar input {
+  position: relative;
+  width: 630px;
+  top: 7px;
+}
+
+.search-bar svg {
+  vertical-align: middle;
+  size: portrait;
+  width: 20px;
+  position: relative;
+  left: 28px;
+  z-index: 1;
+  top: 8px;
+}
+
+.search-bar button {
+  position: relative;
+  top: 7px;
+}
+
+.link-home {
+  color: gold;
+  font-size: large;
+  text-decoration: none;
+}
+
+.li-home-link {
+  position: relative;
+  top: 10px;
+}
+
+.li-login-link {
+  position: relative;
+  top: 5px;
+}
+
+.link-login {
+  position: relative;
+  top: 5px;
+  font-size: large;
+  color: gold;
+  text-decoration: none;
+}
+
+.link-sign {
+  color: gold;
+  font-size: large;
+  text-decoration: none;
+}
+
+.li-sign-link {
+  position: relative;
+  top: 10px;
+}
+
+.li-cart-link {
+  position: relative;
+  top: 5px;
+}
